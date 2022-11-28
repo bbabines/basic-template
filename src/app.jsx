@@ -5,6 +5,7 @@ import SectionThree from "./components/section-three/section-three.component";
 import Footer from "./components/footer/footer.component";
 import "./app.style.scss";
 
+//
 const App = () => {
 	return (
 		<>
